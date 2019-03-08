@@ -1,5 +1,5 @@
-#ifndef __LED_h
-#define __LED_h
+#ifndef __JOYSTICK_h
+#define __JOYSTICK_h
 
 #include "Arduino.h"
 
