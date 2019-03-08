@@ -1,0 +1,8 @@
+Joystick	KEYWORD1
+
+printX	KEYWORD2
+printY	KEYWORD2
+printZ	KEYWORD2
+print	KEYWORD2
+
+toString	KEYWORD2
